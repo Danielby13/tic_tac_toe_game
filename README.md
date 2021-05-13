@@ -1,6 +1,8 @@
 # Tic Tac Toe Game
 
-Play the old game tic tac toe, you can also to start over in the middle of the game. the winner will get pretty confetti animation
+Play the old game tic tac toe, you can also to start over in the middle of the game.
+
+The winner will get pretty confetti animation
 
 ## Getting Started
 
@@ -13,7 +15,8 @@ yarn start
 ```
 
 ## Preview:
+![](https://media.giphy.com/media/DINkz12uEOF6a0Ge2O/giphy.gif)
 
-### Authors:
+## Author:
 
 * Daniel Ben Yair
